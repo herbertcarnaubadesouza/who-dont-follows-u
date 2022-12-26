@@ -5,7 +5,7 @@
 Uma ferramenta bacana que permite ver quem não segue você de volta no Instagram.
 <u>Baseado em navegador e não requer downloads ou instalações!</u>
 
-## **WARNING**
+## **AVISOS**
 
 Esta versão utiliza a API do Instagram para melhor desempenho.
 Se você preferir usar a versão mais antiga, use esta [commit](https://github.com/davidarroyo1234/InstagramUnfollowers/tree/50a0bcbc9fe349b8664a74c0e4477bc974d0352b).
